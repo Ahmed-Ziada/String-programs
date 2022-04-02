@@ -1,4 +1,4 @@
-# Assignment-python
+# String_programs
 this project contains **4** programs as the below:
 
 **1-** Repeated Substring and gives you the Substring and counting the Repeated substring  funaction name: f(S)
